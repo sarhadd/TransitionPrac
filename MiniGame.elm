@@ -1,3 +1,6 @@
+module MiniGame exposing (..)
+import GraphicSVG.App exposing (..)
+
 -- In this game, we use notifyTap, introduced in Blotter.elm to nudge a ball in different
 -- directions.  The goal is to put the ball in the goal, and not kick it off the field.
 
